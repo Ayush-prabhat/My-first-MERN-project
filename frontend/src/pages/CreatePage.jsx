@@ -49,7 +49,7 @@ const CreatePage = () => {
           </Link>
           <div className='card bg-base-100'>
             <div className='card-body'>
-              <h2 className='card-title text-2xl mb-4'>Create Nre Note</h2>
+              <h2 className='card-title text-2xl mb-4'>Create New Note</h2>
               <form onSubmit={handleSubit}>
                 <div className='form-control mb-4'>
                   <label className='label'>
